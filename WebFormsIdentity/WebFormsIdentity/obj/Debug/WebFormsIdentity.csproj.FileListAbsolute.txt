@@ -27,3 +27,31 @@ c:\users\elobos\documents\visual studio 2013\Projects\WebFormsIdentity\WebFormsI
 c:\users\elobos\documents\visual studio 2013\Projects\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.Owin.Security.OAuth.xml
 c:\users\elobos\documents\visual studio 2013\Projects\WebFormsIdentity\WebFormsIdentity\bin\Newtonsoft.Json.xml
 c:\users\elobos\documents\visual studio 2013\Projects\WebFormsIdentity\WebFormsIdentity\obj\Debug\WebFormsIdentity.csprojResolveAssemblyReference.cache
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\WebFormsIdentity.dll.config
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\WebFormsIdentity.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\WebFormsIdentity.pdb
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\EntityFramework.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\EntityFramework.SqlServer.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.Owin.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.Owin.Security.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Newtonsoft.Json.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Owin.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\EntityFramework.xml
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\EntityFramework.SqlServer.xml
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.Owin.xml
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.Owin.Security.xml
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\bin\Newtonsoft.Json.xml
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\obj\Debug\WebFormsIdentity.dll
+C:\Users\elobos\Source\Repos\absolute_test\WebFormsIdentity\WebFormsIdentity\obj\Debug\WebFormsIdentity.pdb
